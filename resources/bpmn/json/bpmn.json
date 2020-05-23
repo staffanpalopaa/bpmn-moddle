@@ -234,6 +234,12 @@
       ]
     },
     {
+      "name": "TaskDisabled",
+      "superClass": [
+        "Task"
+      ]
+    },
+    {
       "name": "ManualTask",
       "superClass": [
         "Task"
